@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Расписание 3334//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:3334 — Расписание
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:ebc3cecd-815a-46c4-bcf3-c1aa7d193909@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20260909T185500
+DTEND;TZID=Europe/Moscow:20260909T202500
+SUMMARY:Приемы и методы обработки экспериментальных данных (лк.-дист.)
+DESCRIPTION:Трошин А.Г.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:68d3c879-de2e-47cc-b0a0-d01cf6737375@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20260915T185500
+DTEND;TZID=Europe/Moscow:20260915T202500
+SUMMARY:Устройства сверхвысокой частоты (СВЧ) и антенны (лк.-дист.)
+DESCRIPTION:Перелыгин С.В.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f5d1889-a8bc-4230-b446-3060ddd5719c@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20260917T185500
+DTEND;TZID=Europe/Moscow:20260917T202500
+SUMMARY:Математическое и компьютерное моделирование в научно-исследовательской работе (лк.-дист.)
+DESCRIPTION:Ходанович А.И.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3dd00aa-ebc9-4810-9f73-945680fa3160@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20260929T185500
+DTEND;TZID=Europe/Moscow:20260929T202500
+SUMMARY:Радиоавтоматика (п.з.-дист.)
+DESCRIPTION:Перелыгин С.В.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b33ffa-2cde-4297-97a8-4b1e729bef6f@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261008T185500
+DTEND;TZID=Europe/Moscow:20261008T202500
+SUMMARY:Физическая и техническая акустика (лк.-дист.)
+DESCRIPTION:Трошин А.Г.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:024b1967-9515-4623-9f21-9fdfd6656ada@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261015T185500
+DTEND;TZID=Europe/Moscow:20261015T202500
+SUMMARY:Цифровые устройства и микропроцессоры (лк.-дист.)
+DESCRIPTION:Соколов Д.А.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:ffdf7f1b-7294-45a1-828b-561344a983f3@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261027T185500
+DTEND;TZID=Europe/Moscow:20261027T202500
+SUMMARY:Устройства сверхвысокой частоты (СВЧ) и антенны (п.з.-дист.)
+DESCRIPTION:Перелыгин С.В.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ae65237-eb94-4af2-b98d-f5070c64da55@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261029T185500
+DTEND;TZID=Europe/Moscow:20261029T202500
+SUMMARY:Цифровые устройства и микропроцессоры (п.з.-дист.)
+DESCRIPTION:Соколов Д.А.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab74927-be63-44e0-86d3-897988a64896@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261112T185500
+DTEND;TZID=Europe/Moscow:20261112T202500
+SUMMARY:Математическое и компьютерное моделирование в научно-исследовательской работе (п.з.-дист.)
+DESCRIPTION:Ходанович А.И.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1210db2-ef59-4a17-bedb-2ef9465fe9b9@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261118T185500
+DTEND;TZID=Europe/Moscow:20261118T202500
+SUMMARY:Физическая и техническая акустика (п.з.-дист.)
+DESCRIPTION:Трошин А.Г.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:5a579353-f391-4380-b618-e2639f8df13c@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261124T185500
+DTEND;TZID=Europe/Moscow:20261124T202500
+SUMMARY:Радиоавтоматика (п.з.-дист.)
+DESCRIPTION:Перелыгин С.В.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab8ef0b2-6cd7-48a4-9f2b-f466d27e86e3@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261202T185500
+DTEND;TZID=Europe/Moscow:20261202T202500
+SUMMARY:Приемы и методы обработки экспериментальных данных (п.з.-дист.)
+DESCRIPTION:Трошин А.Г.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f04790-bdd9-4e3e-a8f6-dec145440da2@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261210T185500
+DTEND;TZID=Europe/Moscow:20261210T202500
+SUMMARY:Цифровые устройства и микропроцессоры (п.з.-дист.)
+DESCRIPTION:Соколов Д.А.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:75b3c505-1f6c-4dd1-b04a-c36ee4ea96c8@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261214T185500
+DTEND;TZID=Europe/Moscow:20261214T202500
+SUMMARY:Компьютерная запись и обработка аудиосигналов (п.з.-дист.)
+DESCRIPTION:Штейн Б.М.\nдист.
+END:VEVENT
+BEGIN:VEVENT
+UID:aba082c4-3d44-43a7-858a-b02f2d5755d2@openai
+DTSTAMP:20260908T202943Z
+DTSTART;TZID=Europe/Moscow:20261230T185500
+DTEND;TZID=Europe/Moscow:20261230T202500
+SUMMARY:Физическая и техническая акустика (п.з.-дист.)
+DESCRIPTION:Трошин А.Г.\nдист.
+END:VEVENT
+END:VCALENDAR
